@@ -1,0 +1,1 @@
+print(f"{(seconds := int(input()))} сек - это {seconds // 60} мин. {seconds % 60} сек.")

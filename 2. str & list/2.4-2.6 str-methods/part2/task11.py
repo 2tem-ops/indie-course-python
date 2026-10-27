@@ -1,0 +1,1 @@
+print((s:=input()).isalpha() and s.isupper())
