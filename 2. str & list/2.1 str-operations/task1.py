@@ -1,1 +1,1 @@
-# Nothing to see here
+print("Я стану крутым программистом!\n" * 3)
