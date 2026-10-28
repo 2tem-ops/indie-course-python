@@ -1,0 +1,1 @@
+print(sum((nums := list(map(int, input().split())))) / len(nums))

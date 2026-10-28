@@ -1,0 +1,1 @@
+print(777 in map(int, input().split()))
