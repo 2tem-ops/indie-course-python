@@ -1,0 +1,1 @@
+print(*range(1, 18), sep="\n")

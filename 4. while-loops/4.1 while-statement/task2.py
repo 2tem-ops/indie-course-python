@@ -1,0 +1,1 @@
+print(*range(25, 13, -1), sep="\n")
