@@ -1,0 +1,1 @@
+print("Можно преобразовать" if (num := input().replace(",", ".")).count(".") <= 1 and num.replace(".", "").isdigit() else "Нельзя преобразовать")
