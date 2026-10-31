@@ -1,0 +1,1 @@
+print(lonely := (777,))
